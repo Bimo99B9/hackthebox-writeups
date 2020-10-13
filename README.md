@@ -1,6 +1,6 @@
 # hackthebox-writeups
 
-My personal (and quite simple) writeups of some of my completed machines.
+My personal writeups of some of my completed HTB machines.
 
 
 
@@ -10,7 +10,7 @@ For any questions, please contact me on:
   
   Discord --> Bimo99B9#5245
   
-  Mail --> kalibimo99b9@gmail.dom
+  Mail --> kalibimo99b9@gmail.com
   
   Instagram --> www.instagram.com/Bimo99B9
   
